@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CodeSkills](https://github.com/codeskills-dev)
 
-- 🌱 I’m currently learning **Blockchain development and security**
+- 🌱 I’m currently learning **C#/.NET Framework**
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
