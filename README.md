@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Ehikhuemen</h1>
-<h3 align="center">A Creative web3 developer</h3>
+<h3 align="center">A Creative developer</h3>
 
 <p align="left"> <a href="https://twitter.com/pauloe_me" target="blank"><img src="https://img.shields.io/twitter/follow/pauloe_me?logo=twitter&style=for-the-badge" alt="pauloe_me" /></a> </p>
 
