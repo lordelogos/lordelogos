@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/pauloe_me" target="blank"><img src="https://img.shields.io/twitter/follow/pauloe_me?logo=twitter&style=for-the-badge" alt="pauloe_me" /></a> </p>
 
-- 🔭 I’m currently working on [CodeSkills](https://github.com/codeskills-dev)
+- 🔭 I’m currently working on [Clientmail](https://clientmail.xyz)
 
 - 🌱 I’m currently learning **C#/.NET Framework**
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
-- 👨‍💻 All of my projects are available at [http://pauloe.me](http://pauloe.me)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/lordelogos)
 
 - 📝 I regularly write articles on [https://blog.codeskills.dev](https://blog.codeskills.dev)
 
