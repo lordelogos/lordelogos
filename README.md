@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#/.NET Framework**
 
-- 👯 I’m looking to collaborate on **web3 projects**
+- 👯 I’m looking to collaborate on **developer education projects**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/lordelogos)
 
