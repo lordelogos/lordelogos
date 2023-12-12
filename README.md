@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Codeskills](https://codeskills.dev)
 
-- 🌱 I’m currently learning **C#/.NET Framework**
-
 - 👯 I’m looking to collaborate on **developer education projects**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/lordelogos)
