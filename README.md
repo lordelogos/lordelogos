@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/lordelogos)
 
-- 📝 I regularly write articles on [https://blog.codeskills.dev](https://blog.codeskills.dev)
+- 📝 I regularly write articles on [Codeskills blog](https://blog.codeskills.dev)
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 
