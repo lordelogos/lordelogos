@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Codeskills blog](https://blog.codeskills.dev)
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**
+- 💬 Ask me about **HTML, CSS, and Javascript**
 
 - ⚡ Fun fact **I am a speedcubing champion**
 
