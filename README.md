@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/pauloe_me" target="blank"><img src="https://img.shields.io/twitter/follow/pauloe_me?logo=twitter&style=for-the-badge" alt="pauloe_me" /></a> </p>
 
-- 🔭 I’m currently working on [Codeskills](https://codeskills.dev)
+- 🔭 I’m currently working on [Email](https://jsx.email)
 
 - 👯 I’m looking to collaborate on **developer education projects**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/lordelogos)
 
-- 📝 I regularly write articles on [Codeskills blog](https://blog.codeskills.dev)
+- 📝 I regularly write articles on [Codeskills blog](https://codeskills-blog-astro.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, and Javascript**
 
